@@ -1,0 +1,21 @@
+## Ran on Tue Oct 14 13:35:32 2014 
+
+Cal 0 : ConstCal;
+Cal 1 : IntCal13, 5;
+Cal 2 : Marine13;
+Cal 3 : SHCal13, 5;
+
+##   id.   yr    std   depth  d.R  d.STD     t.a   t.b   cc
+Det 0 : MLB08 ,  -33,  2.655,  27,  0,  0,  33,  34,  0;
+Det 1 : MLE28 , 0, 1.185, 45;
+Det 2 : MLF45 , 332, 3.5, 70;
+Det 3 : MLE26 , 345, 3.14, 80;
+Det 4 : MLF44 , 379, 2.15, 110;
+Det 5 : MLC04 , 410, 1.75, 151;
+Det 6 : MLC03 , 912, 6.19, 273;
+Det 7 : MLF43 , 1025, 3.05, 321;
+Det 8 : MLF42 , 1038, 2.15, 371;
+Det 9 : MLC02 , 1556, 10.86, 378;
+
+##		 K   MinYr   MaxYr   th0   th0p   w.a   w.b   alpha  beta  dmin  dmax
+Bacon 0: FixT, 71,  -1000,  1e+06,  -32,  -31,  2.8,  1.2,  1.5,  0.3, 27, 378;
