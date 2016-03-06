@@ -4,6 +4,17 @@ Bachon
 This project provides an example of an application of [Bacon](http://chrono.qub.ac.uk/blaauw/bacon.html). Bacon is a software that uses a Bayesian approach to model the age-depth accummulation history of sediments. Useful information can be found in  manualBacon_2.2.pdf. The file do.Rmd produces the example report.  
 
 
+
+
+
+# Important Files
+
+- do.html: Report output
+
+
+
+
+
 ### Reference
 
 Blaauw M, Andres Christen J (2011) Flexible Paleoclimate Age-Depth Models Using an Autoregressive Gamma Process. Bayesian Analysis, 6, 457-474.
