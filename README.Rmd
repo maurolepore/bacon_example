@@ -5,6 +5,9 @@ This project provides an example of an application of [Bacon](http://chrono.qub.
 
 
 
+# Updates
+
+- 2016-03-06: Create the branch work
 
 
 # Important Files
